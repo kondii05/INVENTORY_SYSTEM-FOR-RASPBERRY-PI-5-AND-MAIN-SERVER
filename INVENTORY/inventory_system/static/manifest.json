@@ -1,0 +1,48 @@
+{
+  "name": "NFC Inventory System",
+  "short_name": "NFC Inventory",
+  "start_url": "/add_item",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#2c3e50",
+  "theme_color": "#27ae60",
+  "orientation": "portrait",
+  "description": "Tap NFC tags to add and manage inventory items easily.",
+  "icons": [
+    {
+      "src": "/static/icon-72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/icon-96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/icon-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/icon-256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/icon-384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
